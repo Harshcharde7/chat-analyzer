@@ -23,7 +23,7 @@ st.sidebar.title("Analyze:")
 st.sidebar.markdown(
     "This app is use to analyze your WhatsApp Chat using the exported text file 📁.")
 
-st.sidebar.markdown('<b></b>\
+st.sidebar.markdown('<b>Group 13</b>\
                 <a/>', unsafe_allow_html=True)
 
 st.sidebar.markdown('**How to export chat text file?**')
